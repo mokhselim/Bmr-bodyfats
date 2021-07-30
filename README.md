@@ -4,7 +4,7 @@ New Bmi by- mo khaled
 ## Getting Started
 ### Show some :heart: and star the repo to support the project
 
-### Screenshots :heart: and star 
+### Screenshots :heart and :star 
 
 <img src="Screenshot_20210730_160047_com.neomo.neo_mo_bmi.jpg" height="300em" /> <img src="Screenshot_20210730_160054_com.neomo.neo_mo_bmi.jpg" height="300em" /> <img src="Screenshot_20210730_160104_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160115_com.neomo.neo_mo_bmi.jpg" height="300em" />
 <img src="Screenshot_20210730_160119_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160148_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160152_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160201_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160206_com.neomo.neo_mo_bmi.jpg" height="300em" /><img src="Screenshot_20210730_160216_com.neomo.neo_mo_bmi.jpg" height="300em" />
