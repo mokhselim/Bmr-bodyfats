@@ -2,7 +2,7 @@
 
 New Bmi by- mo khaled
 ## Getting Started
-### Show some :heart: and :star the repo to support the project
+### Show some :heart: and :star: the repo to support the project
 
 ### Screenshots :heart and :star 
 
