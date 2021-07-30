@@ -2,7 +2,12 @@
 
 New Bmi by- mo khaled
 ## Getting Started
+### Show some :heart: and star the repo to support the project
 
+### Screenshots
+
+<img src="ss1.png" height="300em" /> 
+<img src="ss2.png" height="300em" />
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
