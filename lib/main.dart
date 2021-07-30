@@ -27,7 +27,6 @@ void main() async {
       email: await CacheHelper.getData(key: 'email'),
     );
   }
-
   if (gotData == true) {
     userModel = UserModel(
         name: await CacheHelper.getData(key: 'name'),
@@ -42,8 +41,6 @@ void main() async {
         weight: await CacheHelper.getData(key: 'weight'),
         male: await CacheHelper.getData(key: 'male'));
   }
-
-
 
   Widget initialWidget() {
     if (onBoarding == null) return OnBoardingScreen();
