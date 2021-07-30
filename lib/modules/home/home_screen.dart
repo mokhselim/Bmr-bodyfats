@@ -45,7 +45,6 @@ class MyHome extends StatelessWidget {
           return Directionality(
             textDirection: cubit.arabic ? TextDirection.rtl : TextDirection.ltr,
             child: Scaffold(
-
               body: Form(
                 key: formKey,
                 child: SingleChildScrollView(
@@ -249,7 +248,6 @@ class MyHome extends StatelessWidget {
                               height: 30,
                             ),
                             Container(
-
                               width: double.infinity,
                               padding:
                                   const EdgeInsets.symmetric(horizontal: 20),
