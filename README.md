@@ -6,7 +6,7 @@ New Bmi by- mo khaled
 
 ### Screenshots
 
-<img src="ss1.png" height="300em" /> 
+<img src="Screenshot_20210730_160047_com.neomo.neo_mo_bmi.jpg" height="300em" /> 
 <img src="ss2.png" height="300em" />
 This project is a starting point for a Flutter application.
 
