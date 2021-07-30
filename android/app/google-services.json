@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218699922426",
+    "project_id": "mo-bmi",
+    "storage_bucket": "mo-bmi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218699922426:android:d015088cfe9da927b30243",
+        "android_client_info": {
+          "package_name": "com.neomo.neo_mo_bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218699922426-efthau8agreor91p2md4kbo3q29iblr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGcKkI8oim3KV9zDkUcZV9riObK8Jdus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218699922426-efthau8agreor91p2md4kbo3q29iblr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
